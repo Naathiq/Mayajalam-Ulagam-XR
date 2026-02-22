@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🥽 Mayajalam Olagam XR
+### Accessible VR/AR Learning Platform with Teacher Dashboard
 
-# Run and deploy your AI Studio app
+**Mayajalam Olagam XR** is an AI-powered AR/VR educational platform designed to make learning accessible for visually and hearing-impaired students. The system converts standard learning materials into audio narration, sign-language avatars, captions, and immersive visual experiences through a teacher-controlled dashboard.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/dfcb56e9-a144-4e18-8dd8-2f14154634c2
+## 🌟 Project Overview
 
-## Run Locally
+Many students with disabilities face challenges because educational content is not designed for accessibility.  
+Mayajalam Olagam XR transforms traditional lessons into multi-format learning experiences using:
 
-**Prerequisites:**  Node.js
+- 🤖 Artificial Intelligence  
+- 🥽 Virtual Reality (VR)  
+- 📱 Augmented Reality (AR)  
+- 👨‍🏫 Teacher Dashboard Management
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🎯 Key Features
+
+- 👨‍🏫 Teacher Dashboard for lesson upload and content management  
+- 🤟 AI-based Sign Language Avatar  
+- 🔊 Audio Narration & AR Descriptions for visually-impaired learners  
+- 🥽 Mobile VR Classroom with immersive visual models  
+- 📱 Accessible UI with high contrast and offline support  
+- 📊 Learning analytics and engagement tracking
+
+---
+
+## 🧩 Technology Stack
+
+| Layer | Technology |
+|---|---|
+| Mobile App | Flutter / React Native |
+| AR/VR Engine | Unity + ARCore |
+| Backend | Firebase / Cloud Functions |
+| AI Services | Speech-to-Text, Text-to-Speech, Avatar Animation |
+| Database | Firebase Firestore |
+
+---
+
+## 🏗️ Project Architecture
