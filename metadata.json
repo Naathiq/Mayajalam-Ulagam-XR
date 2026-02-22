@@ -1,0 +1,5 @@
+{
+  "name": "Mayajalam Olagam XR",
+  "description": "An AI + AR + VR accessible learning platform for visually and hearing-impaired students.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
